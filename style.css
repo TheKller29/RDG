@@ -1,0 +1,19 @@
+h1 {
+    color: darkgoldenrod;
+    font-style: oblique;
+    font-size: 40px;
+    text-shadow: 3px 2px 16px rgb(255, 230, 0);
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
